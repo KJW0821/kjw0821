@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wi1394)](https://solved.ac/wi1394)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=wi1394)](https://solved.ac/wi1394)
+
